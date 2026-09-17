@@ -1,0 +1,58 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "track": "ILYSB",
+      "file": "/Song/LANY - stuck.mp3",
+      "startTime": 41,
+      "endTime": 999,
+      "fadeIn": 1.5,
+      "fadeOut": 1.5
+    },
+    {
+      "slide": 2,
+      "track": "you!",
+      "file": "/Song/LANY - you! Lyrics.mp3",
+      "startTime": 120,
+      "endTime": 999,
+      "fadeIn": 1.5,
+      "fadeOut": 1.5
+    },
+    {
+      "slide": 5,
+      "track": "Prettiest Thing",
+      "file": "/Song/LANY - Prettiest Thing I've Ever Seen Lyrics.mp3",
+      "startTime": 56,
+      "endTime": 999,
+      "fadeIn": 2,
+      "fadeOut": 2
+    },
+    {
+      "slide": 8,
+      "track": "anything 4 u",
+      "file": "/Song/LANY - anything 4 u Lyric Video.mp3",
+      "startTime": 45,
+      "endTime": 999,
+      "fadeIn": 2,
+      "fadeOut": 2
+    },
+    {
+      "slide": 10,
+      "track": "sharing you",
+      "file": "/Song/LANY - sharing you Lyric Video.mp3",
+      "startTime": 36,
+      "endTime": 999,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "slide": 11,
+      "track": "I Like Me Better",
+      "file": "/Song/Lauv - I Like Me Better [Official Audio].mp3",
+      "startTime": 45,
+      "endTime": 999,
+      "fadeIn": 2,
+      "fadeOut": 2
+    }
+  ]
+}
