@@ -7,7 +7,7 @@ export const contentConfig = {
     slide02: {
       line1: "Hey beautiful",
       line2: "Welcome To Chapter",
-      artist: "20 AGE"
+      artist: "21 AGE"
     },
     slide03: {
       title: "Top 10 Theme\nur Selfies",
